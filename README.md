@@ -8,14 +8,19 @@ I also make videos about database internals and query optimization on [my YouTub
 
 ## 💻 Skills
 
+### Programming Languages
+| Level | Languages |
+|-------|-----------|
+| **Advanced** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) |
+| **Intermediate** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Beginner** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
+
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white)
 ![SimpleJWT](https://img.shields.io/badge/SimpleJWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![django-filter](https://img.shields.io/badge/django--filter-092E20?style=flat&logo=django&logoColor=white)
 ![Google OR-Tools](https://img.shields.io/badge/Google%20OR--Tools-4285F4?style=flat&logo=google&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
 ### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
